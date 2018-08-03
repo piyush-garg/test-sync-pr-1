@@ -13,7 +13,7 @@ To run this booster on your local host:
 ----
 $ git clone git@github.com:piyush1594/test-sync-pr-1
 
-$ cd test-sync-pr-1
+$ cd test
 
 $ mvn compile vertx:run
 ----
